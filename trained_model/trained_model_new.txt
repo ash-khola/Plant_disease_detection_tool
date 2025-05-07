@@ -1,0 +1,2 @@
+Download the trained model (.h5 file) from the following link:
+https://drive.google.com/uc?id=1Ji3u5MGF064OOyOyufrOMR9QFx-WDmPO&export=download

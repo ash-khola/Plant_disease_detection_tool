@@ -1,0 +1,2 @@
+trained_model/*.h5
+trained_model/plant_disease_prediction_model_new.h5
